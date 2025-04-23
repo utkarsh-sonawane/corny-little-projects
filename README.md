@@ -1,2 +1,3 @@
 # projects
-projects i created in 10th.
+mini projects for resume building.
+feel free to use them.
